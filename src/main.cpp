@@ -147,7 +147,7 @@ void EROR()
 
 void buzz()
 {
-  tone(buz, NOTE_45);
+  tone(buz, NOTE_225);
   delay(delay_button);
   noTone(buz);
   delay(delay_button);
